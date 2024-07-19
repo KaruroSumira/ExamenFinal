@@ -1,0 +1,1502 @@
+fileFormatVersion: 2
+guid: d013cadddf8210e45ab86958ebdfee86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2342413608193500450
+    second: SapoJefeImage_0
+  - first:
+      213: -2447505896473300043
+    second: SapoJefeImage_1
+  - first:
+      213: -4106351581755501989
+    second: SapoJefeImage_2
+  - first:
+      213: -7569234179115606879
+    second: SapoJefeImage_3
+  - first:
+      213: -4039167687430330899
+    second: SapoJefeImage_4
+  - first:
+      213: 505466248224262983
+    second: SapoJefeImage_5
+  - first:
+      213: 2811981622480660521
+    second: SapoJefeImage_6
+  - first:
+      213: -6710440103913616008
+    second: SapoJefeImage_7
+  - first:
+      213: 1934185336043349155
+    second: SapoJefeImage_8
+  - first:
+      213: 6928032678816206742
+    second: SapoJefeImage_9
+  - first:
+      213: -4715639365591332487
+    second: SapoJefeImage_10
+  - first:
+      213: -2783830159652210130
+    second: SapoJefeImage_11
+  - first:
+      213: -6826356666170908986
+    second: SapoJefeImage_12
+  - first:
+      213: -7301244837772176526
+    second: SapoJefeImage_13
+  - first:
+      213: -1289642493105501987
+    second: SapoJefeImage_14
+  - first:
+      213: 1974908572151479681
+    second: SapoJefeImage_15
+  - first:
+      213: 4035402957661094293
+    second: SapoJefeImage_16
+  - first:
+      213: 6723348912859381177
+    second: SapoJefeImage_17
+  - first:
+      213: -1557936490272818810
+    second: SapoJefeImage_18
+  - first:
+      213: -8659514732137909627
+    second: SapoJefeImage_19
+  - first:
+      213: 417283855223044526
+    second: SapoJefeImage_20
+  - first:
+      213: 7652752698537740982
+    second: SapoJefeImage_21
+  - first:
+      213: 3453949749976696487
+    second: SapoJefeImage_22
+  - first:
+      213: 1451802203292518869
+    second: SapoJefeImage_23
+  - first:
+      213: 1765474903867278950
+    second: SapoJefeImage_24
+  - first:
+      213: 7000417131683301650
+    second: SapoJefeImage_25
+  - first:
+      213: 505663151026624918
+    second: SapoJefeImage_26
+  - first:
+      213: -5675349032964224714
+    second: SapoJefeImage_27
+  - first:
+      213: 3735215167125894748
+    second: SapoJefeImage_28
+  - first:
+      213: 2198709521781328827
+    second: SapoJefeImage_29
+  - first:
+      213: -2561736525414534444
+    second: SapoJefeImage_30
+  - first:
+      213: 681008107827891470
+    second: SapoJefeImage_31
+  - first:
+      213: 6209079650336943711
+    second: SapoJefeImage_32
+  - first:
+      213: 1951036451543208707
+    second: SapoJefeImage_33
+  - first:
+      213: -7237328158313510334
+    second: SapoJefeImage_34
+  - first:
+      213: 7204713595529025308
+    second: SapoJefeImage_35
+  - first:
+      213: -9113037969528551706
+    second: SapoJefeImage_36
+  - first:
+      213: 8963367919885079045
+    second: SapoJefeImage_37
+  - first:
+      213: 1336559046940432318
+    second: SapoJefeImage_38
+  - first:
+      213: 6569232294498401338
+    second: SapoJefeImage_39
+  - first:
+      213: 3600637352479441751
+    second: SapoJefeImage_40
+  - first:
+      213: -5624616415244692059
+    second: SapoJefeImage_41
+  - first:
+      213: 2666601777110854932
+    second: SapoJefeImage_42
+  - first:
+      213: -587477750803512851
+    second: SapoJefeImage_43
+  - first:
+      213: -8814161937583485659
+    second: SapoJefeImage_44
+  - first:
+      213: 2381938234489002116
+    second: SapoJefeImage_45
+  - first:
+      213: 234585944509303030
+    second: SapoJefeImage_46
+  - first:
+      213: -3537481448650596401
+    second: SapoJefeImage_47
+  - first:
+      213: -7803499259746534464
+    second: SapoJefeImage_48
+  - first:
+      213: -3346935004911846813
+    second: SapoJefeImage_49
+  - first:
+      213: -8991809048840918126
+    second: SapoJefeImage_50
+  - first:
+      213: 7265868895788804322
+    second: SapoJefeImage_51
+  - first:
+      213: -4302628522029837838
+    second: SapoJefeImage_52
+  - first:
+      213: 3377437420802058043
+    second: SapoJefeImage_53
+  - first:
+      213: -8094185922128792607
+    second: SapoJefeImage_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SapoJefeImage_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 393
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2252a6914cce18020800000000000000
+      internalID: 2342413608193500450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 393
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3f807ca56b80ed0800000000000000
+      internalID: -2447505896473300043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 393
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5299962efe4307c0800000000000000
+      internalID: -4106351581755501989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 393
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac911c1e9da4f690800000000000000
+      internalID: -7569234179115606879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 393
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5aa72836ef1f7c0800000000000000
+      internalID: -4039167687430330899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 393
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b4b5befd6c30700800000000000000
+      internalID: 505466248224262983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 393
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928e2ea136a260720800000000000000
+      internalID: 2811981622480660521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 393
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d81b7674abfd2a0800000000000000
+      internalID: -6710440103913616008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_8
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 393
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a422acb05b97da10800000000000000
+      internalID: 1934185336043349155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 393
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f432dd301552060800000000000000
+      internalID: 6928032678816206742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_10
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 393
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97984154bfeae8eb0800000000000000
+      internalID: -4715639365591332487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_11
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 298
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a39ea1839dd59d0800000000000000
+      internalID: -2783830159652210130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 298
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce53ca97c8e341a0800000000000000
+      internalID: -6826356666170908986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 299
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2735f62f084ccaa90800000000000000
+      internalID: -7301244837772176526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 299
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8823f3cf44a1ee0800000000000000
+      internalID: -1289642493105501987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 299
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d76f202e8486b10800000000000000
+      internalID: 1974908572151479681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 298
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59143f80c91a00830800000000000000
+      internalID: 4035402957661094293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 299
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdfdf3e6322e4d50800000000000000
+      internalID: 6723348912859381177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 299
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6897ba23409116ae0800000000000000
+      internalID: -1557936490272818810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_19
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 299
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58278af2b3933d780800000000000000
+      internalID: -8659514732137909627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_20
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 299
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea93319947d7ac500800000000000000
+      internalID: 417283855223044526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_21
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 299
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba0146880a043a60800000000000000
+      internalID: 7652752698537740982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 204
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6096f6ff4eeef20800000000000000
+      internalID: 3453949749976696487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 204
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d941637966d52410800000000000000
+      internalID: 1451802203292518869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 204
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66640e8321a308810800000000000000
+      internalID: 1765474903867278950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_25
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 204
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219ca8d9a4a762160800000000000000
+      internalID: 7000417131683301650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_26
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 204
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69952fce4f9740700800000000000000
+      internalID: 505663151026624918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_27
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 204
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6398fc1bf1c1d31b0800000000000000
+      internalID: -5675349032964224714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_28
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 204
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56b03c876626d330800000000000000
+      internalID: 3735215167125894748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_29
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 204
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb8b0a29a2638e10800000000000000
+      internalID: 2198709521781328827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_30
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 204
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2f58ae332e27cd0800000000000000
+      internalID: -2561736525414534444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_31
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 204
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d0e34144d637900800000000000000
+      internalID: 681008107827891470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_32
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 204
+        width: 85
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ea07c7b051b2650800000000000000
+      internalID: 6209079650336943711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_33
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 204
+        width: 88
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303521ec059731b10800000000000000
+      internalID: 1951036451543208707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_34
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 204
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a8ac09268df8b90800000000000000
+      internalID: -7237328158313510334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_35
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 109
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c175fe9c7d84cf360800000000000000
+      internalID: 7204713595529025308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_36
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 109
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e68a99ef3cf78180800000000000000
+      internalID: -9113037969528551706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_37
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 109
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502d1e712a7446c70800000000000000
+      internalID: 8963367919885079045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_38
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 109
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7183e2f596c8210800000000000000
+      internalID: 1336559046940432318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_39
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 109
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cf99077f99a2b50800000000000000
+      internalID: 6569232294498401338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_40
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 109
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7534a87589808f130800000000000000
+      internalID: 3600637352479441751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_41
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 109
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5528bbb2951f1b0800000000000000
+      internalID: -5624616415244692059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_42
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 109
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d2e12203ca10520800000000000000
+      internalID: 2666601777110854932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_43
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 109
+        width: 79
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de149e5291cd8d7f0800000000000000
+      internalID: -587477750803512851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_44
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 109
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d419dca6ecda580800000000000000
+      internalID: -8814161937583485659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_45
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 109
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48853a744385e0120800000000000000
+      internalID: 2381938234489002116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_46
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 15
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8c6c37caa614300800000000000000
+      internalID: 234585944509303030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_47
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 15
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf95a56d5758eec0800000000000000
+      internalID: -3537481448650596401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_48
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 15
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbb8c994c664b390800000000000000
+      internalID: -7803499259746534464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_49
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 15
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ab8e9885c4d81d0800000000000000
+      internalID: -3346935004911846813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_50
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 15
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ba1bb8f4da63380800000000000000
+      internalID: -8991809048840918126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_51
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 15
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e82d06b34d85d460800000000000000
+      internalID: 7265868895788804322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_52
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 15
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f192ffc72ef944c0800000000000000
+      internalID: -4302628522029837838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_53
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 15
+        width: 63
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37a40690711fde20800000000000000
+      internalID: 3377437420802058043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SapoJefeImage_54
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 15
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3bb85e9ccabaf80800000000000000
+      internalID: -8094185922128792607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 09f54a2ea1118d548ac43ef1f28e8a70
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SapoJefeImage_0: 2342413608193500450
+      SapoJefeImage_1: -2447505896473300043
+      SapoJefeImage_10: -4715639365591332487
+      SapoJefeImage_11: -2783830159652210130
+      SapoJefeImage_12: -6826356666170908986
+      SapoJefeImage_13: -7301244837772176526
+      SapoJefeImage_14: -1289642493105501987
+      SapoJefeImage_15: 1974908572151479681
+      SapoJefeImage_16: 4035402957661094293
+      SapoJefeImage_17: 6723348912859381177
+      SapoJefeImage_18: -1557936490272818810
+      SapoJefeImage_19: -8659514732137909627
+      SapoJefeImage_2: -4106351581755501989
+      SapoJefeImage_20: 417283855223044526
+      SapoJefeImage_21: 7652752698537740982
+      SapoJefeImage_22: 3453949749976696487
+      SapoJefeImage_23: 1451802203292518869
+      SapoJefeImage_24: 1765474903867278950
+      SapoJefeImage_25: 7000417131683301650
+      SapoJefeImage_26: 505663151026624918
+      SapoJefeImage_27: -5675349032964224714
+      SapoJefeImage_28: 3735215167125894748
+      SapoJefeImage_29: 2198709521781328827
+      SapoJefeImage_3: -7569234179115606879
+      SapoJefeImage_30: -2561736525414534444
+      SapoJefeImage_31: 681008107827891470
+      SapoJefeImage_32: 6209079650336943711
+      SapoJefeImage_33: 1951036451543208707
+      SapoJefeImage_34: -7237328158313510334
+      SapoJefeImage_35: 7204713595529025308
+      SapoJefeImage_36: -9113037969528551706
+      SapoJefeImage_37: 8963367919885079045
+      SapoJefeImage_38: 1336559046940432318
+      SapoJefeImage_39: 6569232294498401338
+      SapoJefeImage_4: -4039167687430330899
+      SapoJefeImage_40: 3600637352479441751
+      SapoJefeImage_41: -5624616415244692059
+      SapoJefeImage_42: 2666601777110854932
+      SapoJefeImage_43: -587477750803512851
+      SapoJefeImage_44: -8814161937583485659
+      SapoJefeImage_45: 2381938234489002116
+      SapoJefeImage_46: 234585944509303030
+      SapoJefeImage_47: -3537481448650596401
+      SapoJefeImage_48: -7803499259746534464
+      SapoJefeImage_49: -3346935004911846813
+      SapoJefeImage_5: 505466248224262983
+      SapoJefeImage_50: -8991809048840918126
+      SapoJefeImage_51: 7265868895788804322
+      SapoJefeImage_52: -4302628522029837838
+      SapoJefeImage_53: 3377437420802058043
+      SapoJefeImage_54: -8094185922128792607
+      SapoJefeImage_6: 2811981622480660521
+      SapoJefeImage_7: -6710440103913616008
+      SapoJefeImage_8: 1934185336043349155
+      SapoJefeImage_9: 6928032678816206742
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
